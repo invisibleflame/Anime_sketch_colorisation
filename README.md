@@ -18,6 +18,8 @@ The model has been trained for 280 epochs, and the checkpoints can be found <a h
 
 Link to the code in colab can be found <a href="https://colab.research.google.com/drive/19WQvTFwW91nal7G9-jeIgFkMgNMPbxvQ?usp=sharing">here</a>. Make a copy of the colab notebook in your drive and tinker around!!
 
+Link to data used: https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair
+
 ## Results
 
 Some of the results
