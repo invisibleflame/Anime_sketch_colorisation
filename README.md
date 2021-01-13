@@ -10,6 +10,10 @@ The architecture is of U-Net kind, which takes input as a sketch images of size 
 ## Discriminator
 It takes sketch as well as coloured images a input and stack one on another. It return the probability that given the sketch, does the coloured image belongs to it or not.
 
+## Training
+<a href="https://drive.google.com/file/d/1HREH_KguTN_Iyp94wBfLtHm9yjgxzE5T/view?usp=sharing">click here </a> for getting the model weights.
+The model has been trained for 280 epochs, and the checkpoints can be found <a href="https://drive.google.com/drive/folders/1mFLO1OliYMRU3P8ORnFtWuWi5jvK37Iw?usp=sharing">here</a> if someone wishes to continue the training.
+
 ## Results
 
 Some of the results
