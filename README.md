@@ -1,7 +1,7 @@
 # Anime_sketch_colorisation
 
 This repository contains implementation of the CVPR - 2017 Paper "Image-to-Image Translation with Conditional Adversarial Networks".
-
+The code is written in Python 3.7 and trained on Intel(R) Xeon(R) CPU @ 2.20GHz with Nvidia Tesla T4 15GB GPU
 Part of Winter of GANs
 
 ## Generator
